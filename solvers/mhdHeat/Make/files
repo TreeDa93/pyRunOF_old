@@ -1,3 +1,0 @@
-mhdHeatPimpleFoam.C
-
-EXE = $(FOAM_USER_APPBIN)/mhdHeatPimpleFoam

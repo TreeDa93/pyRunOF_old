@@ -1,3 +1,0 @@
-SOURCE = \
-solidificationFoam.C \
-BCs/robinTemperatureFvPatchScalarField.C 
